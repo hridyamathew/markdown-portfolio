@@ -1,5 +1,3 @@
-<ol>
-  <li>reading</li>
-  <li>dancing</li>
-  <li>sleeping</li>
-</ol>
+* item 1
+* item 2
+* item 3
